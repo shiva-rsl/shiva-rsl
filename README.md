@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Shiva Rasouli
 
+![github-header-image (2)](https://github.com/user-attachments/assets/311f62dd-3248-4edc-b4b2-d718fd96488b)
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
