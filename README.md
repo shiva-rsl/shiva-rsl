@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Shiva Rasouli
 
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
 <!--
 **shiva-rsl/shiva-rsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
